@@ -8,7 +8,7 @@
   width="60%"
 />
 
-Student @ Goethe University Frankfurt
+Student @ Leibniz University Hannover
 
 - :pencil2: Python / C# / C++
 - :hammer_and_pick: Linux forever
