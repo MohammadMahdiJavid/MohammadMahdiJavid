@@ -10,7 +10,7 @@
 
 Student @ Leibniz University Hannover
 
-- :pencil2: Python / C# / C++
+- :pencil2: Python / C# / JS
 - :hammer_and_pick: Linux forever
 
 ### More information
