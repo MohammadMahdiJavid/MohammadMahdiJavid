@@ -11,7 +11,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiJavid"
   title="MohammadMahdi Javid&#039;s GitHub Stats"
   align="right"
-  width="60%"
+  width="30%"
 />
 
 Student @ Leibniz University Hannover
@@ -24,7 +24,6 @@ Student @ Leibniz University Hannover
 - **Homepage**: <https://MohammadMahdiJavid.ir>
 - **About me**: I'm a Security geek 🐧, who loves Linux and Web Application Security (OWASP)
 
-[![Top Langs]()
   
 <!--
 **MohammadMahdiJavid/MohammadMahdiJavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
