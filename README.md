@@ -11,7 +11,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiJavid"
   title="MohammadMahdi Javid&#039;s GitHub Stats"
   align="right"
-  width="30%"
+  width="40%"
 />
 
 Student @ Leibniz University Hannover
