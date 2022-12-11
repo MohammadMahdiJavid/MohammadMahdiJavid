@@ -8,7 +8,7 @@
   width="50%"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiJavid&langs_count=4&hide=html"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiJavid&langs_count=4&hide=html,css"
   title="MohammadMahdi Javid&#039;s GitHub Stats"
   align="right"
   width="50%"
