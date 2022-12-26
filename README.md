@@ -2,7 +2,8 @@
 
 <a href="https://github.com/MohammadMahdiJavid">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiJavid&count_private=true&show_icons=true&icon_color=f3437a&bg_color=30,f2ffe6,e6ffff&theme=radical"
+  src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiJavid&count_private=true&show_icons=true&theme=radical"
+<!--  username=MohammadMahdiJavid&count_private=true&show_icons=true&icon_color=f3437a&bg_color=30,f2ffe6,e6ffff&theme=radical"     -->
   title="MohammadMahdi Javid&#039;s GitHub Stats"
   align="right"
   width="50%"
@@ -30,7 +31,7 @@ Student @ Leibniz University Hannover
 ### Let's Connect :coffee:
 
 <a href="https://www.linkedin.com/in/MohammadMahdiJavid/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://twitter.com/mahdijavid1380"><img src="<img src="https://img.icons8.com/bubbles/50/null/twitter-squared.png"/>" alt="Twitter"/></a>
+<a href="https://twitter.com/mahdijavid1380"><img src="https://img.icons8.com/bubbles/50/null/twitter-squared.png" alt="Twitter"/></a>
 
 
 
