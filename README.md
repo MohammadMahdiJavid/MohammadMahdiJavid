@@ -3,11 +3,11 @@
 <a href="https://github.com/MohammadMahdiJavid">
 <img
   src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiJavid&count_private=true&show_icons=true&theme=radical"
-<!--  username=MohammadMahdiJavid&count_private=true&show_icons=true&icon_color=f3437a&bg_color=30,f2ffe6,e6ffff&theme=radical"     -->
   title="MohammadMahdi Javid&#039;s GitHub Stats"
   align="right"
   width="50%"
 />
+<!--  username=MohammadMahdiJavid&count_private=true&show_icons=true&icon_color=f3437a&bg_color=30,f2ffe6,e6ffff&theme=radical"     -->
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiJavid&langs_count=4&hide=html,css&theme=radical&show_icons=true"
   title="MohammadMahdi Javid&#039;s GitHub Stats"
