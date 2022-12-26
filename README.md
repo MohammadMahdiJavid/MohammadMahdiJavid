@@ -8,13 +8,14 @@
   width="50%"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiJavid&langs_count=4&hide=html,css"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiJavid&langs_count=4&hide=html,css&theme=radical&show_icons=true"
   title="MohammadMahdi Javid&#039;s GitHub Stats"
   align="right"
   width="50%"
 />
 
 Student @ Leibniz University Hannover
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :pencil2: Python / C# / JS
 - :hammer_and_pick: Linux forever
