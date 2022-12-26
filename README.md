@@ -27,10 +27,10 @@ Student @ Leibniz University Hannover
 
 <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 
-### Let's Connect :coffee
+### Let's Connect :coffee:
 
 <a href="https://www.linkedin.com/in/MohammadMahdiJavid/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://twitter.com/mahdijavid1380"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+<a href="https://twitter.com/mahdijavid1380"><img src="https://icons8.com/icon/108650/twitter-squared" alt="Twitter"/></a>
 
 
 
