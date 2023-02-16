@@ -15,7 +15,10 @@
   width="50%"
 />
 
-Student @ Leibniz University Hannover
+Student @ Saarland University
+
+![image](https://user-images.githubusercontent.com/56067255/219432170-92677b6b-d009-487f-a12b-beb414f542a9.png)
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :pencil2: Python / C# / JS
