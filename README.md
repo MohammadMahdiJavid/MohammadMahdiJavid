@@ -15,9 +15,10 @@
   width="50%"
 />
 
-Student @ Saarland University
-
-<img src="https://user-images.githubusercontent.com/56067255/219432170-92677b6b-d009-487f-a12b-beb414f542a9.png" width="50" />
+<div>
+  Student @ Saarland University
+  <img src="https://user-images.githubusercontent.com/56067255/219432170-92677b6b-d009-487f-a12b-beb414f542a9.png" width="50" />
+</div>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
