@@ -30,7 +30,11 @@
 - **Homepage**: <https://MohammadMahdiJavid.ir>
 - **About me**: I'm a Security geek 🐧, who loves Linux and Web Application Security (OWASP)
 
-<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
+<img 
+  align="right" 
+  src="https://png.pngtree.com/png-clipart/20191121/original/pngtree-hand-gesture-color-peace-symbol-two-finger-up-vector-png-image_5140162.jpg" 
+  height="140" 
+  title="Peace" />
 
 ### Let's Connect :coffee:
 
@@ -40,7 +44,11 @@
 
 ### TryHackMe
 
-<script src="https://tryhackme.com/badge/301197"></script>
+<img 
+  src="https://tryhackme-badges.s3.amazonaws.com/Chamrosh17.png" 
+  alt="TryHackMe"
+/>
+
 
 
 <!--
