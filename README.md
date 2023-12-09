@@ -37,6 +37,7 @@
 <a href="https://www.linkedin.com/in/MohammadMahdiJavid/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://twitter.com/mahdijavid1380"><img src="https://img.icons8.com/bubbles/50/null/twitter-squared.png" alt="Twitter"/></a>
 
+```html
 ### TryHackMe
 
 <script src="https://tryhackme.com/badge/301197"></script>
