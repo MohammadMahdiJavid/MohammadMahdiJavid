@@ -28,7 +28,8 @@
 ### More information
 
 - **Homepage**: <https://MohammadMahdiJavid.ir>
-- **About me**: I'm a Security geek 🐧, who loves Linux and Web Application Security (OWASP)
+- **About me**: I'm a Security Geek 🐧, who loves Linux and Microcontrollers 🔧⚡
+
 
 <img 
   align="right" 
