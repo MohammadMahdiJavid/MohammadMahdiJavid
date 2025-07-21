@@ -1,0 +1,29 @@
+##############################################################################
+# Canonical mirrors  – us.archive.ubuntu.com  &  security.ubuntu.com
+185.125.190.36   us.archive.ubuntu.com  security.ubuntu.com
+185.125.190.39   us.archive.ubuntu.com  security.ubuntu.com
+185.125.190.81   us.archive.ubuntu.com  security.ubuntu.com
+185.125.190.82   us.archive.ubuntu.com  security.ubuntu.com
+185.125.190.83   us.archive.ubuntu.com  security.ubuntu.com
+91.189.91.81     us.archive.ubuntu.com
+91.189.91.82     us.archive.ubuntu.com
+91.189.91.83     us.archive.ubuntu.com
+91.189.91.38     us.archive.ubuntu.com  security.ubuntu.com
+91.189.88.142    us.archive.ubuntu.com  security.ubuntu.com
+91.189.88.152    us.archive.ubuntu.com  security.ubuntu.com
+
+##############################################################################
+# Kitware repo
+66.194.253.25    apt.kitware.com
+
+##############################################################################
+# Docker repo  – CloudFront edges (sample set)
+52.85.5.22       download.docker.com
+3.161.193.32     download.docker.com
+108.156.83.52    download.docker.com
+108.157.150.30   download.docker.com
+108.157.150.126  download.docker.com
+108.138.51.102   download.docker.com
+108.138.51.126   download.docker.com
+108.138.51.60    download.docker.com
+##############################################################################
