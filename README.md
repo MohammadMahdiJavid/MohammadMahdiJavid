@@ -1,21 +1,24 @@
-# Hi Hallo سلام 😊👋
-
-<a href="https://github.com/MohammadMahdiJavid">
-  Student @ Humboldt-Universität zu Berlin
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24" align="absmiddle" />
+<div>
+  <img align="right" width="12%" src="images/HUBerlin.svg" alt="HU Berlin Seal" />
+  
+  ### Hi Hallo سلام 😊👋
+  
+  <hr align="left" width="85%" />
+  
+  <a href="https://github.com/MohammadMahdiJavid">
+    Student @ Humboldt-Universität zu Berlin
+  </a>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" align="absmiddle" />
   <br/><br/>
-</a>
+</div>
 
-<p align="center">
-  <img src="images/HUBerlin.svg" width="12%" align="middle" />
-  &nbsp;
-  <a href="https://github.com/MohammadMahdiJavid">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammadMahdiJavid&theme=radical" width="30%" align="middle" />
-  </a>
-  <a href="https://github.com/MohammadMahdiJavid">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadMahdiJavid&theme=radical" width="30%" align="middle" />
-  </a>
-</p>
+<div>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammadMahdiJavid&theme=radical" width="30%" align="left" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadMahdiJavid&theme=radical" width="30%" align="left" />
+    <br clear="both" />
+  </p>
+</div>
 
 * ✏️ Python / C# / JS
 * 🛠️ Linux forever
