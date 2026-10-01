@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="12%" src="images/HUBerlin.svg" alt="HU Berlin Seal" />
+  <img align="right" width="12%" src="images/cispa.svg" alt="HU Berlin Seal" />
   
   ### Hi Hallo سلام 😊👋
   
