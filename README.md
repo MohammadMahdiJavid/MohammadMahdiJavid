@@ -26,7 +26,7 @@
 ### More information
 
 * **Homepage** <https://MohammadMahdiJavid.ir>
-* **About me** I'm a Security Geek 🐧, who loves Linux and Microcontrollers 🔧⚡
+* **About me** I'm a Security Geek 🐧, who loves Linux and Creating new things 🔧⚡
 
 ### Let's Connect ☕
 
